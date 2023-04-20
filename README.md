@@ -30,7 +30,8 @@
 
 ⚡ Хочу стать профессионалом в своем деле.
 
-
+---
+[![codewars](https://www.codewars.com/users/Shebbb/badges/large)](https://www.codewars.com/users/Shebbb) 
 <!--
 **shebbb/shebbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
