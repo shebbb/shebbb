@@ -22,8 +22,8 @@
   <a href="https://www.linkedin.com/in/evgeny-shebanov-213050272/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a "https://t.me/Evgeny_Shebanov">
-    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://t.me/Evgeny_Shebanov">
+    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
